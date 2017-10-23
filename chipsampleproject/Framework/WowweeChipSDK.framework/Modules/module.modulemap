@@ -1,0 +1,6 @@
+framework module WowweeChipSDK {
+  umbrella header "WowweeChipSDK.h"
+
+  export *
+  module * { export * }
+}

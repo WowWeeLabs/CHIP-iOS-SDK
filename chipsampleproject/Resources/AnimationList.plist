@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>kChipBodyconReset</string>
+	<string>kChipBodyconSit</string>
+	<string>kChipBodyconLieDown</string>
+	<string>kChipBodyconAllIdleMode</string>
+	<string>kChipBodyconDance</string>
+	<string>kChipBodyconVRTraining1</string>
+	<string>kChipBodyconVRTraining2</string>
+	<string>kChipBodyconReset2</string>
+	<string>kChipBodyconJump</string>
+	<string>kChipBodyconYoga</string>
+	<string>kChipBodyconWatchCome</string>
+	<string>kChipBodyconWatchFollow</string>
+	<string>kChipBodyconWatchFetch</string>
+	<string>kChipBodyconBallTracking</string>
+	<string>kChipBodyconBallSoccer</string>
+	<string>kChipBodyconBase</string>
+	<string>kChipBodyconDanceBase</string>
+	<string>kChipBodyconStopOrStandFromBase</string>
+	<string>kChipBodyconGuardMode</string>
+	<string>kChipBodyconFreeRoam</string>
+	<string>kChipBodyconFaceDownForControllingChippies</string>
+</array>
+</plist>
